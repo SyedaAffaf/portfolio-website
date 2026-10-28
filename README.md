@@ -98,3 +98,5 @@ Or simply visit the live demo: [https://regal-bonbon-7b2b23.netlify.app/](https:
 **Syeda Affaf Jeelani**
 Web Development Intern, Devixo Solutions
 GitHub: [@SyedaAffaf](https://github.com/SyedaAffaf)
+## Project Report
+[Click here to view the PDF Report](report/Portfolio-Report.pdf)
